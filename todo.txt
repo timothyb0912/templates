@@ -1,0 +1,5 @@
+(A) 2021-01-27 Set up Bumpver for repo +publishing @tooling
+(A) 2021-01-27 Set up pre-commit for repo +publishing @tooling
+(A) 2021-01-27 Set up vale/linting for repo +publishing @tooling
+(A) 2021-01-27 Set up CI for repo +publishing @tooling
+(A) 2021-01-27 Set up JupyterBook frontend for repo +publishing @tooling
