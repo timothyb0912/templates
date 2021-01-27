@@ -18,6 +18,6 @@ See the following, non-exhaustive list of great templates by others:
 
 - [kbariotis](https://github.com/kbariotis/templates)
 - [gitignore templates](https://github.com/github/gitignore)
-- open-source [collaboriation templates](https://github.com/tylucaskelley/github-templates)
+- open-source [collaboration templates](https://github.com/tylucaskelley/github-templates)
 - [architecture decision record templates](https://github.com/joelparkerhenderson/architecture_decision_record)
 - [system runbook templates](https://github.com/SkeltonThatcher/run-book-template)
