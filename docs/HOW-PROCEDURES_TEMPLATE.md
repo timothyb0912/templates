@@ -17,7 +17,6 @@ See the following resources for guidance on writing how-to guides / working proc
 - [The Documentation System](https://documentation.divio.com/how-to-guides/)
 - Wiki-How on [clear](https://www.wikihow.com/Write-Clear-Instructions) instructions
 - Wiki-How on [general](https://www.wikihow.com/Write-Instructions) instructions
-- The [key to writing good documentation](https://idratherbewriting.com/2015/07/07/testing-your-instructions/), from a technical writer and programmer.
 
 
 ### Internal
@@ -46,14 +45,6 @@ See the following resources for guidance on writing how-to guides / working proc
 
 
 ## Instructions
-
-When creating instructions, limit your number of sub-tasks to a maximum of 5.
-Humans have a [hard time](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two) remembering or holding in memory many more concepts than this.
-
-Likewise, limit your number of steps per sub-task to a maximum of 6.
-If each step took one minute, then combined with 5 tasks,
-you'd have, at maximum, a 30 minute procedure.
-This seems as good a time to stop as any other arbitrary cutoff.
 
 
 ### Sub-task 1
