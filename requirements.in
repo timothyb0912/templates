@@ -2,3 +2,4 @@ bumpver
 pip-tools
 pre-commit
 topydo
+towncrier
