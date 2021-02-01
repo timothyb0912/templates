@@ -1,4 +1,6 @@
 # in _config.yml
 title: "Templates"
+author: "Timothy Brathwaite"
 execute:
   execute_notebooks: "off"
+copyright: "2021"

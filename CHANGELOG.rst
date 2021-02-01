@@ -7,6 +7,15 @@ and this project adheres to [Calendar Versioning](https://calver.org/).
 
 .. towncrier release notes start
 
+Templates 2021.1003.5 (2021-01-31)
+==================================
+
+Trivial/Internal Changes
+------------------------
+
+- Fix author and copyright year. (#29)
+
+
 Templates 2021.1002.5 (2021-01-31)
 ==================================
 
