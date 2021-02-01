@@ -1,8 +1,8 @@
 ---
-version: 2021.1001.5
+version: 2021.1000.4
 ---
 
-# templates
+# Templates
 
 This repository stores varied document templates that may be generally useful.
 

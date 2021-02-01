@@ -1,4 +1,7 @@
 bumpver
+ghp-import
+jupyter-book
 pip-tools
 pre-commit
 topydo
+towncrier
