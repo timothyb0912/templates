@@ -22,18 +22,20 @@ See the following resources for guidance on writing how-to guides / working proc
 
 ### Internal
 
-- are there issue reports detailing one or more incidents that lead to this procedures creation?
-- is there an architecture decision record detailing why this procedure was created?
-- are there links to previously issued tasks upon which this procedure is based?
+- Are there issue reports detailing one or more incidents that lead to this procedures creation?
+- Is there an architecture decision record detailing why this procedure was created?
+- Are there links to previously issued tasks upon which this procedure is based?
 
 
 ## Prerequisites  
 
-- tools:
+What prerequisites are needed to successfully complete this guide's instructions?
+
+- Tools:
   - <NEEDED_TOOL_1>
   - <NEEDED_TOOL_2>
 
-- circumstances:
+- Circumstances:
   - <NEEDED_CIRCUMSTANCE_1>
   - <NEEDED_CIRCUMSTANCE_2>
 

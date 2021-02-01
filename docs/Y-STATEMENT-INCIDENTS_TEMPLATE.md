@@ -10,7 +10,7 @@ This template is useful for describing why an incident happened.
 
 This template is based on an amalgamation of reflections of:
 - [Principles](https://www.principles.com/#) by Ray Dalio
-- [Noniolent Communication](https://www.nonviolentcommunication.com/product/nonviolent-communication-a-language-of-life-3rd-edition/) by Marshall Rosenberg
+- [Nonviolent Communication](https://www.nonviolentcommunication.com/product/nonviolent-communication-a-language-of-life-3rd-edition/) by Marshall Rosenberg
 - [Work the System](https://www.workthesystem.com/book/synopsis/) by Sam Carpenter
 
 
