@@ -1,0 +1,4 @@
+# in _config.yml
+title: "Templates"
+execute:
+  execute_notebooks: "off"

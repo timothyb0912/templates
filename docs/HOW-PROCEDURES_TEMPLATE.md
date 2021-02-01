@@ -1,4 +1,7 @@
-# Title
+# How-To / Procedures Guide
+
+
+## Title
 
 
 ## Summary
@@ -14,9 +17,9 @@ then, by following this document's procedures, <EXPECTED_OUTCOME_AND_OUTPUTS>.
 ### External
 
 See the following resources for guidance on writing how-to guides / working procedures:
-- [The Documentation System](https://documentation.divio.com/how-to-guides/)
-- Wiki-How on [clear](https://www.wikihow.com/Write-Clear-Instructions) instructions
-- Wiki-How on [general](https://www.wikihow.com/Write-Instructions) instructions
+- [The Documentation System](https://documentation.divio.com/how-to-guides/).
+- Wiki-How on [clear](https://www.wikihow.com/Write-Clear-Instructions) instructions.
+- Wiki-How on [general](https://www.wikihow.com/Write-Instructions) instructions.
 - The [key to writing good documentation](https://idratherbewriting.com/2015/07/07/testing-your-instructions/), from a technical writer and programmer.
 
 
